@@ -57,23 +57,31 @@
 
 ## 📷 截圖預覽
 
-<div align="center">
-  <!-- 語言模型 -->
-  <img src="image/pic1.png" width="22%" alt="語言模型">
-
-  <!-- ETF 詳細頁面 -->
-  <img src="image/pic2.png" width="22%" alt="ETF 詳細">
-
-  <!-- 今日總攬 -->
-  <img src="image/pic3.png" width="22%" alt="今日總攬">
-
+<div align="left">
+  語言模型
+  <br>
+  <img src="image/pic1.PNG" width="1400" alt="語言模型">
+  
+  <br><br>
+  ETF 詳細頁面
+  <br>
+  <img src="image/pic2.PNG" width="1400" alt="ETF 詳細頁面">
+  
+  <br><br>
+  今日總攬
+  <br>
+  <img src="image/pic3.PNG" width="1400" alt="今日總攬">
+  
+  <br><br>
   ETF 計算機
-  <img src="image/pic4.png" width="22%" alt="ETF 計算機">
-
-  <!-- 設定 -->
-  <img src="image/pic5.png" width="22%" alt="設定">
+  <br>
+  <img src="image/pic4.PNG" width="1400" alt="ETF 計算機">
+  
+  <br><br>
+  設定
+  <br>
+  <img src="image/pic5.PNG" width="1400" alt="設定">
 </div>
-
 
 ---
 
