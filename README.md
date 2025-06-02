@@ -21,7 +21,7 @@
 <br>
 
 <!-- 下載按鈕 -->
-<a href="https://github.com/twl-Benchen/etfapp-download/releases/download/v0.9-beta/app-release.apk">
+<a href="https://github.com/twl-Benchen/etfapp-download/releases/download/v0.9.1-beta/app-release.apk">
   <img alt="Get it on GitHub" src="https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png" height="80">
 </a>
 
