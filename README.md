@@ -59,26 +59,21 @@
 
 <div align="center">
   <!-- 語言模型 -->
-  <img src="Lab404-114Project-1 (1).png" width="22%" alt="語言模型">
+  <img src="image/pic1.png" width="22%" alt="語言模型">
 
   <!-- ETF 詳細頁面 -->
-  <img src="Lab404-114Project-1 (2-1).jpg" width="22%" alt="ETF詳細(1)">
-  <img src="Lab404-114Project-1 (2-2).jpg" width="22%" alt="ETF詳細(2)">
+  <img src="image/pic2.png" width="22%" alt="ETF 詳細">
 
   <!-- 今日總攬 -->
-  <img src="Lab404-114Project-1 (3-1).jpg" width="22%" alt="今日總攬(1)">
-  <img src="Lab404-114Project-1 (3-2).jpg" width="22%" alt="今日總攬(2)">
-  <img src="Lab404-114Project-1 (3-3).png" width="22%" alt="今日總攬(3)">
-  <img src="Lab404-114Project-1 (3-4).png" width="22%" alt="今日總攬(4)">
+  <img src="image/pic3.png" width="22%" alt="今日總攬">
 
-  <!-- ETF 計算機 -->
-  <img src="Lab404-114Project-1 (4-1).jpg" width="22%" alt="ETF計算機(1)">
-  <img src="Lab404-114Project-1 (4-2).jpg" width="22%" alt="ETF計算機(2)">
+  ETF 計算機
+  <img src="image/pic4.png" width="22%" alt="ETF 計算機">
 
   <!-- 設定 -->
-  <img src="Lab404-114Project-1 (5-1).jpg" width="22%" alt="設定(1)">
-  <img src="Lab404-114Project-1 (5-2).png" width="22%" alt="設定(2)">
+  <img src="image/pic5.png" width="22%" alt="設定">
 </div>
+
 
 ---
 
