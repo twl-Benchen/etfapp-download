@@ -78,7 +78,7 @@
   <img src="image/pic2.PNG" width="1400" alt="ETF 詳細頁面">
   
   <br><br>
-  今日總攬
+  今日總覽
   <br>
   <img src="image/pic3.PNG" width="1400" alt="今日總攬">
   
